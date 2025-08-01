@@ -1,0 +1,16 @@
+{
+  "name": "@shivani_v3/string_matcher",
+  "version": "1.0.0",
+  "description": "match the string",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [
+    "string",
+    "match"
+  ],
+  "author": "Shivani",
+  "license": "ISC"
+}
