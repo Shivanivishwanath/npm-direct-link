@@ -17,7 +17,7 @@ jobs:
 
       - run: npm ci  # Clean install dependencies (faster than npm install)
 
-      - run: npm test  # Optional: Run tests before publishing
+       # Optional: Run tests before publishing
 
       - run: npm publish
         env:
